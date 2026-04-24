@@ -44,9 +44,7 @@ Internet-of-Thing-IoT/
 ## 📊 Repository Insights
 
 | Metric                | Value                                     |
-|-----------------------|-------------------------------------------|
-| **Total commits**     | 9 (as of 24 April 2026) ✨                |
-| **Last commit**       | 1 minute ago (by `rudra520`)             |
+|-----------------------|-------------------------------------------|               |    
 | **Languages used**    | C++ (Arduino), JSON (Wokwi diagrams)     |
 | **Simulation ready**   | ✅ Yes – full Wokwi support              |
 | **Hardware required** | Optional (works 100% in simulator)       |
