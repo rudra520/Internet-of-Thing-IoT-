@@ -44,10 +44,10 @@ Internet-of-Thing-IoT/
 ## 📊 Repository Insights
 
 | Metric                | Value                                     |
-|-----------------------|-------------------------------------------|               |    
-| **Languages used**    | C++ (Arduino), JSON (Wokwi diagrams)     |
-| **Simulation ready**   | ✅ Yes – full Wokwi support              |
-| **Hardware required** | Optional (works 100% in simulator)       |
+|-----------------------|-------------------------------------------|                 
+| **Languages used**    | C++ (Arduino), JSON (Wokwi  diagrams)     |
+| **Simulation ready**  | ✅ Yes – full Wokwi support               |
+| **Hardware required** | Optional (works 100% in simulator)        |
 
 *Total commits count is based on the current branch history. Keep contributing to grow it!*
 
